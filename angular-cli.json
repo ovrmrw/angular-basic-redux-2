@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.16",
-    "name": "angular-redux-2"
+    "name": "angular-basic-redux-2"
   },
   "apps": [
     {
